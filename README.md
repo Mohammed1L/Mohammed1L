@@ -2,7 +2,7 @@
 -  **Passionate about:** Full-stack development.  
 -  **Currently exploring:** Advanced React & Node.js.  
 -  **Looking to collaborate on:** Innovative and impactful web projects.  
--  **Reach me at:**  mahertorki@gmail.com.   
+-  **Reach me at:**  mahertorke@gmail.com.   
 
 
 <!---  
