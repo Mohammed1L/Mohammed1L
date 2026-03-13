@@ -1,49 +1,39 @@
-## $ whoami
+# Mohammad Alhathal
 
-**Software Engineer** — building clean, scalable full-stack applications.
+Software Engineer focused on building reliable and scalable backend systems.
 
----
+## Focus
+Currently working toward becoming a **Backend Engineer specializing in Java and Spring Boot**.
 
-## $ cat skills.json
+## Skills
 
-```json
-{
-  "backend":    ["Java Spring Boot", ".NET"],
-  "frontend":   ["Angular", "React"],
-  "runtime":    ["Node.js"],
-  "scripting":  ["Python"],
-  "philosophy": ["Clean Code", "Scalable Architecture", "Full-Stack Thinking"]
-}
-```
+**Backend**
+- Java
+- Spring Boot
+- .NET
+- Node.js
 
----
+**Frontend**
+- Angular
+- React
 
-## $ cat education.log
+**Programming**
+- Python
+- JavaScript
 
-```
-[GRADUATED] King Fahd University of Petroleum & Minerals (KFUPM)
-            ✓ Degree conferred
-```
+## Engineering Principles
+- Clean Code
+- Scalable Architecture
+- Maintainable Systems
 
----
+## Education
+**King Fahd University of Petroleum & Minerals (KFUPM)**  
+Bachelor's Degree
 
-## $ git log --oneline
+## Experience
+- Built full-stack applications using **Java, .NET, Angular, and React**
+- Developed backend services and APIs
+- Created automation scripts with Python
 
-```
-• Full-stack apps across Java, .NET, Angular, React
-• Backend services with Spring Boot & Node.js  
-• Automation & scripting with Python
-• Clean, maintainable, production-ready code
-```
-
----
-
-## $ echo $STATUS
-
-🟢 &nbsp; Open to opportunities — building things that matter
-
----
-
-<div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</div>
+## Status
+Open to backend engineering opportunities.
