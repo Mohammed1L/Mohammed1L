@@ -46,11 +46,6 @@ Software Engineer focused on building reliable and scalable systems.
 **King Fahd University of Petroleum & Minerals (KFUPM)**  
 Bachelor of Software Engineering
 
-## Experience
-- Built full-stack applications using Angular, .NET, React, and Node.js
-- Developed secure RESTful APIs with authentication and authorization
-- Designed normalized database schemas and backend services
-- Worked in team environments with code reviews and professional workflows
 
 ## Status
 Open to opportunities.
