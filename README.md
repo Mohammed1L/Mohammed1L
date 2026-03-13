@@ -1,22 +1,10 @@
-```
-██╗  ██╗██╗
-██║  ██║██║
-███████║██║
-██╔══██║██║
-██║  ██║██║
-╚═╝  ╚═╝╚═╝
-```
+## $ whoami
 
-```bash
-$ whoami
-```
-> **Software Engineer** — building clean, scalable full-stack applications
+**Software Engineer** — building clean, scalable full-stack applications.
 
 ---
 
-```bash
-$ cat skills.json
-```
+## $ cat skills.json
 
 ```json
 {
@@ -30,40 +18,32 @@ $ cat skills.json
 
 ---
 
-```bash
-$ cat education.log
-```
+## $ cat education.log
 
 ```
 [GRADUATED] King Fahd University of Petroleum & Minerals (KFUPM)
-            Computer Science / Software Engineering
             ✓ Degree conferred
 ```
 
 ---
 
-```bash
-$ echo $CURRENT_STATUS
-```
+## $ git log --oneline
 
-> 🟢 Open to opportunities — building things that matter
-
----
-
-```bash
-$ git log --oneline --all
-```
 ```
 • Full-stack apps across Java, .NET, Angular, React
-• Backend services with Spring Boot & Node.js
+• Backend services with Spring Boot & Node.js  
 • Automation & scripting with Python
 • Clean, maintainable, production-ready code
 ```
 
 ---
 
+## $ echo $STATUS
+
+🟢 &nbsp; Open to opportunities — building things that matter
+
+---
+
 <div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
+  <i>"First, solve the problem. Then, write the code."</i>
 </div>
